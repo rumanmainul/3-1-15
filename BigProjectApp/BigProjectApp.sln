@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigProjectApp", "BigProjectApp\BigProjectApp.csproj", "{5778B544-2DA9-448A-8E79-754467AA4AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{C94C75A8-3198-47A1-8705-07233D7FD79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security", "Security\Security.csproj", "{E45B3AD0-0E44-4AC3-898D-9FF112903A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5778B544-2DA9-448A-8E79-754467AA4AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5778B544-2DA9-448A-8E79-754467AA4AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5778B544-2DA9-448A-8E79-754467AA4AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5778B544-2DA9-448A-8E79-754467AA4AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94C75A8-3198-47A1-8705-07233D7FD79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94C75A8-3198-47A1-8705-07233D7FD79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94C75A8-3198-47A1-8705-07233D7FD79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94C75A8-3198-47A1-8705-07233D7FD79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45B3AD0-0E44-4AC3-898D-9FF112903A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45B3AD0-0E44-4AC3-898D-9FF112903A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45B3AD0-0E44-4AC3-898D-9FF112903A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45B3AD0-0E44-4AC3-898D-9FF112903A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

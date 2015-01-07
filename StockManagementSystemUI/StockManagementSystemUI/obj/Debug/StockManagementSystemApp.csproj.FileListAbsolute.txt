@@ -1,0 +1,12 @@
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe.config
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.exe
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\bin\Debug\StockManagementSystemUI.pdb
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.MainUI.resources
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.Properties.Resources.resources
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockInUI.resources
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.StockOutUI.resources
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.ViewCurrentStockUI.resources
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.exe
+H:\Project\3-1-15\StockManagementSystemUI\StockManagementSystemUI\obj\Debug\StockManagementSystemUI.pdb
